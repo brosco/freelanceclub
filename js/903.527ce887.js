@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkfreelanceclub"]=globalThis["webpackChunkfreelanceclub"]||[]).push([[903],{1903:(e,a,l)=>{l.r(a),l.d(a,{default:()=>b});var s=l(9835),u=l(6970),c=l(499),n=l(8339);const r=(0,s.aZ)({__name:"show",setup(e){const a=(0,n.yj)();return(e,l)=>((0,s.wg)(),(0,s.iD)("div",null,(0,u.zw)((0,c.SU)(a).params.id),1))}}),t=r,b=t}}]);
